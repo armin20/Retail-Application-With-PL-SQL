@@ -1,4 +1,4 @@
 
 # Retail-Application-With-PL-SQL
 
-DBS355 Final Project
+DBS311 Final Project
